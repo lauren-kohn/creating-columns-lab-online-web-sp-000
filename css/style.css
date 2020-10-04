@@ -51,7 +51,7 @@ img:hover {
 }
 
 .small {
-  width: 32%;
+  width: 50%;
   height: 32%;
 }
 
@@ -61,6 +61,6 @@ img:hover {
 }
 
 .large {
-  width: %;
-  height: %;
+  width: 150%;
+  height: 150%;
 }
